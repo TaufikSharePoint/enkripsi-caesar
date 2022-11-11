@@ -30,7 +30,7 @@
 void enkripsi()
 {
      printf("----------------------------------------------------------------------\n");
-     printf("\nEnkripsi Cesar\n");
+     printf("\nEnkripsi Caesar\n");
      printf("\n----------------------------------------------------------------------\n");
      printf("Masukkan pergeseran yang diinginkan [angka]: ");
      scanf("%d", & geser);
@@ -58,7 +58,7 @@ void enkripsi()
 void dekripsi()
 {
      printf("----------------------------------------------------------------------\n");
-     printf("\nDekripsi Cesar\n");
+     printf("\nDekripsi Caesar\n");
      printf("\n----------------------------------------------------------------------\n");
      printf("Masukkan pergeseran yang diinginkan [angka]: ");
      scanf("%d", & geser);
@@ -110,7 +110,7 @@ int main(int argc, char **argv)
   printf("----------------------------------------------------------------------\n");
   printf("\nPanduan Penggunaan\n");
   printf("\n----------------------------------------------------------------------\n");
-  printf("\ncontoh compile dengan GCC : sudo gcc -o e_d_caesarfile  e_d_cesarfile.c\n");
+  printf("\ncontoh compile dengan GCC : sudo gcc -o e_d_caesarfile  e_d_caesarfile.c\n");
   printf("\n-e : adalah aksi untuk melakukan enkripsi data pada file\n");
   printf("-d : adalah aksi untuk melakukan dekripsi data pada file\n");
   printf("\ncontoh penggunaan : sudo ./e_d_caesarfile [aksi] [lokasi file]\n");
