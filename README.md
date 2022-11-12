@@ -1,12 +1,13 @@
 # Sistem Kriptografi Caesar - Algoritma Kriptografi Klasik 
 
-##Pendahuluan
-###Sejarah
+## Pendahuluan
+### Sejarah
 
-###Alasan mempelajari Kriptografi Klasik
+### Alasan mempelajari Kriptografi Klasik
 
-###Pembagian Kriptografi Klasik
+### Pembagian Kriptografi Klasik
 
 ---
 
-##Sistem Kriptografi Caesar
+## Sistem Kriptografi Caesar
+
