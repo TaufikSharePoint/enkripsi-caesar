@@ -35,3 +35,10 @@ Sistem kriptografi Caesar mengganti setiap huruf di teks terang (_plaintext_) de
 ### Program
 Pada program dalam repository ini, sistem kriptografi caesar dibangun dengan menggunakan Bahasa Pemrograman C. Program ini dibangun dengan Struktur Fungsi Enkripsi, Fungsi Dekripsi, dan Main. Hal ini membuat program ini dapat digunakan sesuai dengan kebutuhan pengguna baik untuk enkripsi maupun dekripsi.
 
+### Penggunaan Program
+ - contoh compile dengan GCC : `sudo gcc -o e_d_caesarfile  e_d_caesarfile.c`
+ - -e : adalah aksi untuk melakukan enkripsi data pada file
+ - -d : adalah aksi untuk melakukan dekripsi data pada file
+ - contoh penggunaan : `sudo ./e_d_caesarfile [aksi] [lokasi file]`
+ - contoh penggunaan : `sudo ./e_d_caesarfile -e /home/ubuntu/file.txt`
+ - contoh penggunaan : `sudo ./e_d_caesarfile -d /home/ubuntu/file.txt`
