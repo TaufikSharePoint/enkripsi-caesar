@@ -33,5 +33,5 @@ Sumber Gambar : [geeksforgeeks.org](https://www.geeksforgeeks.org/caesar-cipher-
 Sistem kriptografi Caesar mengganti setiap huruf di teks terang (_plaintext_) dengan huruf yang berselisih angka tertentu dalam alfabet. Contoh ini menggunakan geseran tiga, sehingga huruf B di plaintext menjadi E di teks tersandi (_ciphertext_).
 
 ### Program
-
+Pada program dalam repository ini, sistem kriptografi caesar dibangun dengan menggunakan Bahasa Pemrograman C. Program ini dibangun dengan Struktur Fungsi Enkripsi, Fungsi Dekripsi, dan Main. Hal ini membuat program ini dapat digunakan sesuai dengan kebutuhan pengguna baik untuk enkripsi maupun dekripsi.
 
