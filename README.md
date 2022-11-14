@@ -19,8 +19,18 @@ Sistem kriptografi klasik dapat dikelompokkan menjadi dua kelompok, berikut adal
 
 ## Sistem Kriptografi Caesar
 ### Sejarah
+>Membahas terkait kriptografi klasik, maka ditak terlepas dari sejarah kriptografi itu sendiri.
+
+Nama Sandi Caesar diambil dari Julius Caesar, yang menurut buku Suetonius Kehidupan Duabelas Caesar, menggunakan sandi ini dengan geseran tiga, untuk mengirim pesan yang mengandung rahasia atau taktik militer. Keponakan Caesar, Augustus juga menggunakan skema sandi Caesar, tetapi dengan geseran satu ke kanan, dengan sedikit perbedaan. Juga terdapat bukti bahwa Julius Caesar juga menggunakan sistem yang lebih rumit. Penulis Aulus Gellius, merujuk pada sebuah risalah (yang sekarang hilang) dalam sandi-sandinya.
 
 ### Teori
+Sistem kriptografi caesar adalah salah satu teknik enkripsi paling sederhana dan paling terkenal. Sandi ini termasuk sandi substitusi dimana setiap huruf pada teks terang (plaintext) digantikan oleh huruf lain yang memiliki selisih posisi tertentu dalam alfabet. 
+
+![image](https://user-images.githubusercontent.com/117842809/201686128-5606dcca-7476-436b-bdef-6b7b95d898b5.png)
+ 
+Sumber Gambar : [geeksforgeeks.org](https://www.geeksforgeeks.org/caesar-cipher-in-cryptography/)
+
+Sandi Caesar mengganti setiap huruf di teks terang (_plaintext_) dengan huruf yang berselisih angka tertentu dalam alfabet. Contoh ini menggunakan geseran tiga, sehingga huruf B di plaintext menjadi E di teks tersandi (_ciphertext_).
 
 ### Program
 
