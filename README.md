@@ -41,6 +41,6 @@ Pada program dalam repository ini, sistem kriptografi caesar dibangun dengan men
  - `-d`  : adalah aksi untuk melakukan dekripsi data pada file
  - `--h` : adalah aksi untuk menampilkan bantuan
  - contoh penggunaan : `sudo ./e_d_caesarfile [aksi] [lokasi file]`
- - - contoh penggunaan : `sudo ./e_d_caesarfile --h`
+ - contoh penggunaan : `sudo ./e_d_caesarfile --h`
  - contoh penggunaan : `sudo ./e_d_caesarfile -e /home/ubuntu/file.txt`
  - contoh penggunaan : `sudo ./e_d_caesarfile -d /home/ubuntu/file.txt`
