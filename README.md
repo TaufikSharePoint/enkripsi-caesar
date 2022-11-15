@@ -33,7 +33,7 @@ Sumber Gambar : [geeksforgeeks.org](https://www.geeksforgeeks.org/caesar-cipher-
 Sistem kriptografi Caesar mengganti setiap huruf di teks terang (_plaintext_) dengan huruf yang berselisih angka tertentu dalam alfabet. Contoh ini menggunakan geseran tiga, sehingga huruf B di plaintext menjadi E di teks tersandi (_ciphertext_).
 
 ### Program
-Pada program dalam repository ini, sistem kriptografi caesar dibangun dengan menggunakan Bahasa Pemrograman C. Program ini dibangun dengan Struktur Fungsi Enkripsi, Fungsi Dekripsi, dan Main. Hal ini membuat program ini dapat digunakan sesuai dengan kebutuhan pengguna baik untuk enkripsi maupun dekripsi.
+Pada program dalam repository ini, sistem kriptografi caesar dibangun dengan menggunakan Bahasa Pemrograman C. Program ini dibangun dengan Struktur Fungsi Enkripsi, Fungsi Dekripsi, dan Main. Hal ini membuat program ini dapat digunakan sesuai dengan kebutuhan pengguna baik untuk enkripsi maupun dekripsi. Program ini dapat digunakan untuk melakukan enkripsi atau dekripsi terhadap file dengan ekstensi `.txt` saja. 
 
 ### Penggunaan Program
  - contoh compile dengan GCC : `sudo gcc -o e_d_caesarfile  e_d_caesarfile.c`
@@ -44,3 +44,6 @@ Pada program dalam repository ini, sistem kriptografi caesar dibangun dengan men
  - contoh penggunaan : `sudo ./e_d_caesarfile --h`
  - contoh penggunaan : `sudo ./e_d_caesarfile -e /home/ubuntu/file.txt`
  - contoh penggunaan : `sudo ./e_d_caesarfile -d /home/ubuntu/file.txt`
+ 
+ ### Pengembangan Lebih Lanjut
+ Perlu dilakukan pengembangan lebih lanjut agar program dapat digunakan untuk melakukan Enkripsi atau Dekripsi terhadap file dengan ekstensi yang leih banyak.
