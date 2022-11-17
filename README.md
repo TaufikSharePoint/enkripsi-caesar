@@ -46,4 +46,4 @@ Pada program dalam repository ini, sistem kriptografi caesar dibangun dengan men
  - contoh penggunaan : `sudo ./e_d_caesarfile -d /home/ubuntu/file.txt`
  
  ### Pengembangan Lebih Lanjut
- Perlu dilakukan pengembangan lebih lanjut agar program dapat digunakan untuk melakukan Enkripsi atau Dekripsi terhadap file dengan ekstensi yang leih banyak.
+ Perlu dilakukan pengembangan lebih lanjut agar program dapat digunakan untuk melakukan Enkripsi atau Dekripsi terhadap file dengan ekstensi yang leih banyak. 
